@@ -1,4 +1,13 @@
 {
   "title": "Troubleshooting",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "sign-in-and-access",
+    "missing-prompt-pack-or-purchase",
+    "missing-or-unexpected-credits",
+    "missing-content-or-workspace-items",
+    "locked-or-unavailable-features",
+    "page-not-loading-or-action-not-completing",
+    "prepare-a-support-request"
+  ]
 }

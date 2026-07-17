@@ -1,4 +1,10 @@
 {
   "title": "Using JaxOS",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "navigate-jaxos",
+    "understand-workspaces",
+    "switch-workspaces-or-clients",
+    "understand-locked-features"
+  ]
 }

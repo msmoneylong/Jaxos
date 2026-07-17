@@ -1,4 +1,11 @@
 {
   "title": "Account and Access",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "sign-in-to-jaxos",
+    "understand-your-access",
+    "invitations-and-workspace-access",
+    "missing-or-locked-features",
+    "account-settings"
+  ]
 }
