@@ -1,4 +1,9 @@
 {
   "title": "Billing and Credits",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "understanding-credits",
+    "view-your-credit-balance",
+    "billing-and-purchases"
+  ]
 }

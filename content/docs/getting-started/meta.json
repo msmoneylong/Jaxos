@@ -1,4 +1,9 @@
 {
   "title": "Getting Started",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "accessing-jaxos",
+    "understanding-your-workspace",
+    "first-steps"
+  ]
 }

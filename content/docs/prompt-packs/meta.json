@@ -1,4 +1,9 @@
 {
   "title": "Prompt Packs",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "find-your-prompt-packs",
+    "use-a-prompt-pack",
+    "prompt-pack-access"
+  ]
 }
