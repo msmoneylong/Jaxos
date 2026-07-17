@@ -1,0 +1,11 @@
+.reference-import/
+node_modules/
+.next/
+.source/
+out/
+coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
+tsconfig.tsbuildinfo
