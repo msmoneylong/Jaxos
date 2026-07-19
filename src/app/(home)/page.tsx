@@ -7,6 +7,8 @@ const quickLinks=[
   ['Prompt Packs','/docs/prompt-packs'],
   ['Creative Studio','/docs/creative-studio'],
   ['Content Calendar','/docs/content-calendar'],
+  ['Content','/docs/content'],
+  ['Reports','/docs/reports'],
   ['Billing and Credits','/docs/billing-and-credits'],
   ['Troubleshooting','/docs/troubleshooting'],
 ] as const;
